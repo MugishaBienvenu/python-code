@@ -1,0 +1,4 @@
+name,class,date
+mugisha
+l4sod
+27/04/2025
